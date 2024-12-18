@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farh0111" alt="farh0111" /></a> </p>
 
 - 📫 How to reach me **nafisrfarhan@gmail.com**
+- Visit my portfolio at **https://nafisfarhan.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
