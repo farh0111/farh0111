@@ -8,7 +8,7 @@
 - 📫 How to reach me **nafisrfarhan@gmail.com**
 - Visit my portfolio at **https://nafisfarhan.netlify.app/**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
