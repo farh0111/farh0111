@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nafis Farhan</h1>
-<h3 align="center">A passionate fullstack and mobile application developer from CANADA</h3>
+<h3 align="center">Fullstack and mobile application developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farh0111&label=Profile%20views&color=0e75b6&style=flat" alt="farh0111" /> </p>
 
